@@ -14,6 +14,7 @@ Use len() method to get the number of rows and columns and 'shape' attribute to 
 ### Step 5:
 Print the output and end the program.
 ## PROGRAM:
+```
 #Program to read contents from a csv file
 #Developed by :SARON XAVIER A
 #Register nuumber:212223230197
@@ -24,6 +25,7 @@ print(df.tail(5))
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 print(df.shape)
+```
 ## OUTPUT:
 ![image](https://github.com/saron2006/Read-from-CSV/assets/138849343/d1309a9e-3e09-4784-ad66-4dc606125e77)
 
