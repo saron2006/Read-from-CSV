@@ -16,8 +16,8 @@ Print the output and end the program.
 ## PROGRAM:
 ```
 #Program to read contents from a csv file
-#Developed by :M ASHWIN AKASH
-#Register nuumber:23009906
+#Developed by :A. SARON XAVIER
+#Register nuumber:212223230197
 import pandas as pd
 df=pd.read_csv('6exp.csv.csv')
 print(df.head(10))
@@ -27,7 +27,8 @@ print("Number of columns:",len(df.axes[1]))
 print(df.shape)
 ```
 ## OUTPUT:
-![image](https://github.com/saron2006/Read-from-CSV/assets/138849343/4bb4184d-ad5c-4b22-bf1f-72e230a581fc)
+![image](https://github.com/saron2006/Read-from-CSV/assets/138849343/1ef5346f-369a-4027-b83c-30ca37b29d6b)
+
 
 
 ## RESULT:
